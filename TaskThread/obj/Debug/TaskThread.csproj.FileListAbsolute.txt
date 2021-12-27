@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\TaskThread\TaskThread\bin\Debug\TaskThread.exe.config
+C:\Users\Admin\source\repos\TaskThread\TaskThread\bin\Debug\TaskThread.exe
+C:\Users\Admin\source\repos\TaskThread\TaskThread\bin\Debug\TaskThread.pdb
+C:\Users\Admin\source\repos\TaskThread\TaskThread\obj\Debug\TaskThread.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TaskThread\TaskThread\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\TaskThread\TaskThread\obj\Debug\TaskThread_MarkupCompile.cache
+C:\Users\Admin\source\repos\TaskThread\TaskThread\obj\Debug\TaskThread_MarkupCompile.lref
+C:\Users\Admin\source\repos\TaskThread\TaskThread\obj\Debug\TaskThread.g.resources
+C:\Users\Admin\source\repos\TaskThread\TaskThread\obj\Debug\TaskThread.Properties.Resources.resources
+C:\Users\Admin\source\repos\TaskThread\TaskThread\obj\Debug\TaskThread.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TaskThread\TaskThread\obj\Debug\TaskThread.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TaskThread\TaskThread\obj\Debug\TaskThread.exe
+C:\Users\Admin\source\repos\TaskThread\TaskThread\obj\Debug\TaskThread.pdb
+C:\Users\Admin\source\repos\TaskThread\TaskThread\obj\Debug\Views\MainView.g.cs
+C:\Users\Admin\source\repos\TaskThread\TaskThread\obj\Debug\Views\MainView.baml
